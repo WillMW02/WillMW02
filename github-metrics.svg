@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="583" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="566" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">A final year Computer Science student at Durham University, with a background in SoftEng and Sysadmin work, and experience dating back to 2018.</div>
+                        <div class="introduction">CTO of Vint Street, a new e-commerce marketplace, connecting the world through our global shipping program.</div>
                     </section>
                 </div>
             </section>
@@ -281,7 +281,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2025, 21:12:06 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2025, 22:12:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
